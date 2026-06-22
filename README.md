@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MuhammadBilalCS/cp-arsenal/main/Achievement/ICPC.jpg" 
        alt="ICPC Achievement Certificate" 
-       width="1000">
+       width="700">
 </p>
 
 <!---LeetCode Topics Start-->
