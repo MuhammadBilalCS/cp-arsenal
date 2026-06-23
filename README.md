@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
