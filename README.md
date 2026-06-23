@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
