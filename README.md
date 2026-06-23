@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0051-n-queens) |
+| [0136-single-number](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
