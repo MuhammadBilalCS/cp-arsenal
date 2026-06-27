@@ -169,4 +169,16 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/2396-strictly-palindromic-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
