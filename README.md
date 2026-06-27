@@ -6,21 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 9 |
+| 25 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
+- [*special](#special) (4)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (5)
+- [bitmasks](#bitmasks) (4)
+- [brute force](#brute-force) (8)
+- [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (5)
-- [math](#math) (7)
+- [fft](#fft) (1)
+- [graph matchings](#graph-matchings) (1)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (7)
+- [math](#math) (9)
 - [schedules](#schedules) (1)
-- [strings](#strings) (4)
+- [sortings](#sortings) (2)
+- [strings](#strings) (6)
 
 ---
 
@@ -29,12 +34,24 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
+| 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
+| 2214C | [And?](https://codeforces.com/contest/2214/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/C%20-%20And%3F/solution.cpp) |
 
 ### binary search
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
+| 2214C | [And?](https://codeforces.com/contest/2214/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/C%20-%20And%3F/solution.cpp) |
 
 ### brute force
 
@@ -43,14 +60,36 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 
 ### expression parsing
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+
+### fft
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### greedy
 
@@ -60,6 +99,11 @@
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
+| 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 
 ### implementation
 
@@ -70,6 +114,8 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.cpp) |
+| 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### math
 
@@ -81,6 +127,8 @@
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
 | 2203A | [Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2203/A%20-%20Towers%20of%20Boxes/solution.cpp) |
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
+| 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
 ### schedules
@@ -88,6 +136,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 
 ### strings
 
@@ -97,6 +152,8 @@
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
+| 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 
 ---
 
