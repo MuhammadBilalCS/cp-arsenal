@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 15 |
+| 27 | 15 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [implementation](#implementation) (7)
 - [math](#math) (9)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (6)
 
 ---
@@ -148,6 +148,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/456/A%20-%20Laptops/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 
