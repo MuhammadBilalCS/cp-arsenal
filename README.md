@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 16 |
+| 34 | 16 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (7)
 - [math](#math) (10)
-- [number theory](#number-theory) (1)
+- [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (6)
@@ -149,6 +149,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
 
 ### schedules
