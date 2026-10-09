@@ -191,8 +191,13 @@
 |  |
 | ------- |
 | [0855-exam-room](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0855-exam-room) |
+| [1046-last-stone-weight](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/1046-last-stone-weight) |
 ## Ordered Set
 |  |
 | ------- |
 | [0855-exam-room](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/0855-exam-room) |
+## Array
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/MuhammadBilalCS/cp-arsenal/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
