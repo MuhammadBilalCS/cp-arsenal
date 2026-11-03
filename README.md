@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 16 |
+| 38 | 16 |
 
 ---
 
@@ -22,12 +22,12 @@
 - [fft](#fft) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (12)
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (3)
-- [strings](#strings) (6)
+- [sortings](#sortings) (4)
+- [strings](#strings) (7)
 
 ---
 
@@ -132,6 +132,7 @@
 | 935B | [Fafa and the Gates](https://codeforces.com/contest/935/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/935/B%20-%20Fafa%20and%20the%20Gates/solution.cpp) |
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.cpp) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### math
 
@@ -170,6 +171,7 @@
 | 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/456/A%20-%20Laptops/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### strings
 
@@ -181,6 +183,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ---
 
