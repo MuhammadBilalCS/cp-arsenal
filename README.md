@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 16 |
+| 39 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (4)
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (9)
@@ -50,6 +50,7 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
+| 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 
 ### binary search
 
