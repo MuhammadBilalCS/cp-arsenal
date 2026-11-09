@@ -26,12 +26,12 @@ int main() {
                     cnt++;
                 }
             }
- 
+ 
             mx=max(mx,cnt);
         }
         cout << n-mx;
         nl;
     }
- 
+ 
     re;
 }
