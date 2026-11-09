@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
 - [fft](#fft) (1)
@@ -24,7 +24,7 @@
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (10)
 - [math](#math) (12)
-- [number theory](#number-theory) (2)
+- [number theory](#number-theory) (3)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (7)
@@ -80,6 +80,7 @@
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+| 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 
 ### dp
 
@@ -158,6 +159,7 @@
 |---|---------|------------|----------|
 | 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
+| 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 
 ### schedules
 
