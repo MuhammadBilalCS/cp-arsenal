@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 16 |
+| 40 | 17 |
 
 ---
 
@@ -21,13 +21,14 @@
 - [expression parsing](#expression-parsing) (1)
 - [fft](#fft) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (10)
-- [math](#math) (12)
+- [math](#math) (13)
 - [number theory](#number-theory) (3)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (7)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -120,6 +121,7 @@
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
+| 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 
 ### implementation
 
@@ -152,6 +154,7 @@
 | 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+| 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 
 ### number theory
 
@@ -187,6 +190,12 @@
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MuhammadBilalCS/cp-arsenal/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 
 ---
 
